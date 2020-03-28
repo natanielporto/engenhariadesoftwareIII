@@ -33,7 +33,7 @@ for (let index = 0; index <= 1000; index++) {
 
 // Desenvolva uma função que retorne apenas os nomes dos clientes.
 // const names = clients.map(el => el.name);
-// console.log(names);
+// console.log(clients);
 
 // Desenvolva uma função que retorne apenas o primeiro nome dos clientes.
 // const filtered = clients.map((el => el.name.split(" ")[0]))
